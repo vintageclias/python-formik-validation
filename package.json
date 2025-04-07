@@ -1,0 +1,19 @@
+{
+  "name": "python-formik-validation",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vintageclias/python-formik-validation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vintageclias/python-formik-validation/issues"
+  },
+  "homepage": "https://github.com/vintageclias/python-formik-validation#readme"
+}
